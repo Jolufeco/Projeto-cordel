@@ -65,9 +65,10 @@ a:hover {
 .img1 {
     background: black url(imagens/background001.jpg) no-repeat right center fixed;
     background-size: cover;
-    padding: 60px;
-    height: 60vw;
-    position: relative;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    box-shadow: inset 5px 5px 5px black;
+    
 }
 
 div > p {
@@ -80,7 +81,7 @@ div {
     background-color: rgba(0, 0, 0, 0.344);
     color: white;
     text-shadow: 2px 2px 2px black;
-    position: absolute;
+
 
 
 }
@@ -89,9 +90,10 @@ div {
 .img2 {
     background: black url(imagens/background002.jpg) no-repeat right center fixed;
     background-size: cover;
-    padding: 60px;
-    height: 60vw;
-    position: relative;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+     box-shadow: inset 5px 5px 5px black;
+
 }
 
 
